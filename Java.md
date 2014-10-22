@@ -18,8 +18,8 @@ public class org.cocos2dx.cpp.Tools {
 }
 
 
-## javah 
-
+## javah 头文件生成
+F:\Cocos2dSpace\cocos2dx\08_CrossCpp\proj.android\src>javah org.cocos2dx.cpp.Tools
 
 About Me
 ==
