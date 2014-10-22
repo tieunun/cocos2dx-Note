@@ -1,6 +1,6 @@
 # Java Tools
 
-### javap 方法签名
+###1.Javap 方法签名
 F:\Cocos2dSpace\cocos2dx\08_CrossCpp\proj.android>javap -classpath bin/classes -s org.cocos2dx.cpp.Tools
 Compiled from "Tools.java"
 public class org.cocos2dx.cpp.Tools {
@@ -18,9 +18,6 @@ public class org.cocos2dx.cpp.Tools {
 }
 
 
-### javah 头文件生成
+###2.Javah 头文件生成
 F:\Cocos2dSpace\cocos2dx\08_CrossCpp\proj.android\src>javah org.cocos2dx.cpp.Tools
 
-About Me
-==
-a student in ysu
